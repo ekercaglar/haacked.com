@@ -3,7 +3,7 @@
 #
 author: Phil Haack
 description: You've been Haacked and you like it
-url: http://haacked.com
+url: http://ekercaglar.github.io
 baseurl: ""
 title: You've Been Haacked
 subtitle: ...and you like it
@@ -11,21 +11,21 @@ gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
 subscribe_rss: http://feeds.haacked.com/haacked
 
 # Github repositories
-github_user: haacked
-github_repo_url: https://github.com/Haacked/haacked.com/
+github_user: ekercaglar
+github_repo_url: https://github.com/ekercaglar/ekercaglar.github.io/
 
 # Twitter
-twitter_user: haacked
+twitter_user: caglreker
 twitter:
-  username: haacked
+  username: caglreker
 twitter_tweet_button: true
 
 # Disqus Comments
-disqus_short_name: haacked
+disqus_short_name: 
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-177588-1
+google_analytics_tracking_id: 
 
 kramdown:
   hard_wrap: false
@@ -34,7 +34,7 @@ kramdown:
 # Jekyll Settings
 #
 permalink: /archive/:year/:month/:day/:title/
-paginate: 20
+paginate: 5
 paginate_path: "page/:num"
 category_dir: categories
 
