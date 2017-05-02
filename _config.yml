@@ -3,7 +3,8 @@
 #
 author: Phil Haack
 description: You've been Haacked and you like it
-url: http://ekercaglar.github.io
+url: https://ekercaglar.github.io
+baseurl: /
 title: You've Been Haacked
 subtitle: ...and you like it
 gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
@@ -21,7 +22,7 @@ twitter_tweet_button: true
 
 # Disqus Comments
 disqus_short_name: 
-disqus_show_comment_count: true
+disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: 
